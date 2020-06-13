@@ -1,4 +1,5 @@
-package peterSpringPractice.psipetclinic;
+//package peterSpringPractice.psipetclinic;
+package psipetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
