@@ -42,7 +42,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git@github.com:PeterSimacek/psi-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:PeterSimacek/psi-pet-clinic.git</developerConnection>
 	</scm>
 
 	<modules>
